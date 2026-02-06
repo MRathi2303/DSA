@@ -1,17 +1,17 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        s1 = re.sub(r'[^a-zA-Z0-9]', '', s)
-        s1 = s1.lower()
+        left, right = 0, len(s) - 1
 
-        start = 0
-        end = len(s1) - 1
+        while left < right:
+            while left < right and not s[left].isalnum(): ## if left < right and is not alphanumeric we skip
+                left += 1
+            while left < right and not s[right].isalnum(): ## if right > left  and is not alphanumeric we skip
+                right -= 1
 
-        while start < end:
-            if s1[start] != s1[end]:
+            if s[left].lower() != s[right].lower():
                 return False
-            start += 1
-            end -= 1
+
+            left += 1
+            right -= 1
 
         return True
-
-## using two pointer and iterating till the elements are same from start and end 
