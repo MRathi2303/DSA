@@ -1,15 +1,13 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int i = 0; // pointer for subsequence string
-        int j = 0; // pointer for main string
-        while(i < s.length() && j < t.length()){
-            // if char in both the strings match we increment the pointer of the subsequence
-            if(s.charAt(i) == t.charAt(j)){
-                i++;
+        int sub_pointer = 0;
+        int seq_pointer = 0;
+        while(sub_pointer<s.length() && seq_pointer<t.length()){
+            if(s.charAt(sub_pointer) == t.charAt(seq_pointer)){
+                sub_pointer++;
             }
-            j++;
+            seq_pointer++;
         }
-        // if pointer complete iterate over the subsequence string
-        return i == s.length();
+        return sub_pointer == s.length();
     }
 }
