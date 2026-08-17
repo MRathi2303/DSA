@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MRathi2303/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
 | [0390-elimination-game](https://github.com/MRathi2303/DSA/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MRathi2303/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MRathi2303/DSA/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/MRathi2303/DSA/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
@@ -63,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MRathi2303/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MRathi2303/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
