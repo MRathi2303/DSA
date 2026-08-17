@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MRathi2303/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MRathi2303/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MRathi2303/DSA/tree/master/0392-is-subsequence) |
+| [0686-repeated-string-match](https://github.com/MRathi2303/DSA/tree/master/0686-repeated-string-match) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MRathi2303/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/MRathi2303/DSA/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/MRathi2303/DSA/tree/master/1768-merge-strings-alternately) |
@@ -69,4 +70,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MRathi2303/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MRathi2303/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/MRathi2303/DSA/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/MRathi2303/DSA/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/MRathi2303/DSA/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/MRathi2303/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
