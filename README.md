@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/MRathi2303/DSA/tree/master/0056-merge-intervals) |
 | [0283-move-zeroes](https://github.com/MRathi2303/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/MRathi2303/DSA/tree/master/0605-can-place-flowers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MRathi2303/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MRathi2303/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MRathi2303/DSA/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MRathi2303/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
