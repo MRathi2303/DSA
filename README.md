@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MRathi2303/DSA/tree/master/0056-merge-intervals) |
+| [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/MRathi2303/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/MRathi2303/DSA/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/MRathi2303/DSA/tree/master/0875-koko-eating-bananas) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/MRathi2303/DSA/tree/master/0763-partition-labels) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
