@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MRathi2303/DSA/tree/master/0056-merge-intervals) |
 | [0283-move-zeroes](https://github.com/MRathi2303/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/MRathi2303/DSA/tree/master/0605-can-place-flowers) |
+| [0875-koko-eating-bananas](https://github.com/MRathi2303/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MRathi2303/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MRathi2303/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/MRathi2303/DSA/tree/master/1528-shuffle-string) |
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/MRathi2303/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MRathi2303/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
