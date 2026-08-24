@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MRathi2303/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/MRathi2303/DSA/tree/master/0390-elimination-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MRathi2303/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MRathi2303/DSA/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/MRathi2303/DSA/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/MRathi2303/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MRathi2303/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MRathi2303/DSA/tree/master/0392-is-subsequence) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/MRathi2303/DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -136,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
