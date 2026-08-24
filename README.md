@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/MRathi2303/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MRathi2303/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MRathi2303/DSA/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/MRathi2303/DSA/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MRathi2303/DSA/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
