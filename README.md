@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/MRathi2303/DSA/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/MRathi2303/DSA/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/MRathi2303/DSA/tree/master/0283-move-zeroes) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/MRathi2303/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
 ## Linked List
 |  |
 | ------- |
