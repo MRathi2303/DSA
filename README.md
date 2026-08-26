@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/MRathi2303/DSA/tree/master/0118-pascals-triangle) |
+| [0221-maximal-square](https://github.com/MRathi2303/DSA/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/MRathi2303/DSA/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/MRathi2303/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MRathi2303/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/MRathi2303/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
+| [0221-maximal-square](https://github.com/MRathi2303/DSA/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0376-wiggle-subsequence](https://github.com/MRathi2303/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/MRathi2303/DSA/tree/master/0392-is-subsequence) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/MRathi2303/DSA/tree/master/0221-maximal-square) |
 ## Linked List
 |  |
 | ------- |
