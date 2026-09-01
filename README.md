@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/MRathi2303/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/MRathi2303/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/MRathi2303/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MRathi2303/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MRathi2303/DSA/tree/master/0392-is-subsequence) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/MRathi2303/DSA/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/MRathi2303/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MRathi2303/DSA/tree/master/0191-number-of-1-bits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/MRathi2303/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
