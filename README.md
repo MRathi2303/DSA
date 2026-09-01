@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MRathi2303/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MRathi2303/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/MRathi2303/DSA/tree/master/1528-shuffle-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/MRathi2303/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MRathi2303/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/MRathi2303/DSA/tree/master/0605-can-place-flowers) |
 | [0763-partition-labels](https://github.com/MRathi2303/DSA/tree/master/0763-partition-labels) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/MRathi2303/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Matrix
 |  |
 | ------- |
