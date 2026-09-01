@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/MRathi2303/DSA/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/MRathi2303/DSA/tree/master/0136-single-number) |
 | [0221-maximal-square](https://github.com/MRathi2303/DSA/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/MRathi2303/DSA/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/MRathi2303/DSA/tree/master/0376-wiggle-subsequence) |
@@ -178,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/MRathi2303/DSA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/MRathi2303/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
