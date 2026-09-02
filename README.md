@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MRathi2303/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MRathi2303/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/MRathi2303/DSA/tree/master/1528-shuffle-string) |
+| [1895-largest-magic-square](https://github.com/MRathi2303/DSA/tree/master/1895-largest-magic-square) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MRathi2303/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Binary Search
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MRathi2303/DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/MRathi2303/DSA/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/MRathi2303/DSA/tree/master/0221-maximal-square) |
+| [1895-largest-magic-square](https://github.com/MRathi2303/DSA/tree/master/1895-largest-magic-square) |
 ## Linked List
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MRathi2303/DSA/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/MRathi2303/DSA/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
