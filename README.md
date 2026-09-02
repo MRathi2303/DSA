@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/MRathi2303/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MRathi2303/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/MRathi2303/DSA/tree/master/0605-can-place-flowers) |
+| [0739-daily-temperatures](https://github.com/MRathi2303/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/MRathi2303/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MRathi2303/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MRathi2303/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/MRathi2303/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/MRathi2303/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/MRathi2303/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MRathi2303/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
